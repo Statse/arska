@@ -1,5 +1,9 @@
 # Arska — arjen AI-assistentin skillit
 
+![Arska: essuun pukeutunut terminaattorirobotti imuroi olohuonetta.](assets/arska-kodin-askareet.png)
+
+*Hasta la vista, pöly.*
+
 Arska on kasvava työkalupakki, jonka avulla voit antaa AI-assistentille tuttuja arjen tehtäviä. Skilli on valmis toimintaohje: se kertoo assistentille, miten tietty tehtävä hoidetaan ja mitä sinulta pitää kysyä.
 
 Ensimmäinen skilli auttaa suunnittelemaan toteutettavan viikon: työ, menot, ruoat, liikunta, harrastukset, kodin rutiinit ja vapaa-aika.
