@@ -62,7 +62,7 @@ viikkosuunnittelu.zip
 
 Skill ei sisällä kirjautumistietoja eikä anna itsestään pääsyä palveluihin.
 
-Voit aloittaa ilman yhteyksiä ja antaa tiedot keskustelussa. [README kertoo eri osien tehtävät](../README.md#mistä-arska-koostuu). Esimerkkikokoonpano on Claude + Notion + Google Kalenteri + Gmail; sähköposti on valinnainen eikä sitä tarvita tämän skillin käyttöön.
+Voit aloittaa ilman yhteyksiä ja antaa tiedot keskustelussa. Kalenteriyhteyden avulla tekoäly voi lukea sovitut menot. Notion-yhteyttä voi käyttää omien reseptien hakemiseen. Sähköpostia ei tarvita tämän taidon käyttöön.
 
 - **ChatGPT:** yhdistä käyttämäsi kalenteripalvelu sovelluksen Plugins-näkymässä, jos integraatio on tililläsi saatavilla. Saatavuus riippuu tilistä ja työtilan asetuksista. [Virallinen ChatGPT-ohje](https://learn.chatgpt.com/docs/use-chatgpt).
 - **Claude:** yhdistä Google Calendar connector-asetuksissa. Clauden Google Workspace -yhteys tukee tapahtumien lukemista, luontia, muokkausta ja toistuvia tapahtumia. [Virallinen integraatio-ohje](https://support.claude.com/en/articles/10166901-use-google-workspace-connectors).
@@ -90,7 +90,7 @@ Käytä sitä ruokien suunnittelussa.
 Kysy erikseen ennen uusien reseptien tai kauppalistan tallentamista.
 ```
 
-Notionin sivuja voi käyttää tavallisina muistiinpanoina ilman Notion AI:ta. Henkilökohtaisen Free-tason ja AI-kokeilun erot on kuvattu [READMEssä](../README.md#miksi-notion-muistiksi). Tallennus ei tapahdu automaattisesti: pyydä sitä erikseen ja varmista, että assistentilla on siihen tarvittava toiminto.
+Notionin sivuja voi käyttää tavallisina muistiinpanoina ilman Notion AI:ta. Tallennus ei tapahdu automaattisesti: pyydä sitä erikseen ja varmista, että assistentilla on siihen tarvittava toiminto.
 
 ## Aloitustiedot ensimmäiselle viikolle
 
