@@ -1,6 +1,6 @@
 # Arskan käyttöönotto ChatGPT:ssä ja Claudessa
 
-Arska on ohjeista koostuva skill-kokoelma. Ensimmäinen skilli on viikkosuunnittelu. Ohjeet sopivat molemmille palveluille, mutta käyttöönoton tapa eroaa. Näitä polkuja ei ole testattu kirjautuneilla ChatGPT- ja Claude-tileillä; palvelukohtaiset vaiheet on tarkistettu virallisista ohjeista 4.10.2026.
+Arska on ohjeista koostuva skill-kokoelma. Tämä ohje koskee viikkosuunnittelua. Yhden reseptin tuontiin, suomentamiseen ja mittamuunnoksiin on [oma reseptiskillin ohje](reseptit.md). Ohjeet sopivat molemmille palveluille, mutta käyttöönoton tapa eroaa. Näitä polkuja ei ole testattu kirjautuneilla ChatGPT- ja Claude-tileillä; palvelukohtaiset vaiheet on tarkistettu virallisista ohjeista 4.10.2026.
 
 ## ChatGPT: käyttö projektissa
 

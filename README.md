@@ -10,6 +10,15 @@ Ensimmäinen skilli auttaa suunnittelemaan toteutettavan viikon: työ, menot, ru
 
 Skill tarkistaa kalenterin, kysyy puuttuvat tiedot ja rakentaa luonnoksen. Kalenterimerkinnät ja kutsut tehdään vasta käyttäjän hyväksynnän jälkeen.
 
+## Valitse skilli
+
+| Skilli | Mitä sillä voi tehdä? | Käyttöohje | Claude-paketti |
+|---|---|---|---|
+| [Viikkosuunnittelu](viikkosuunnittelu/SKILL.md) | Sovittaa viikon menot, ruoat ja tekemiset yhteen | [Aloita tästä](docs/kayttoonotto.md) | [Lataa ZIP](downloads/viikkosuunnittelu.zip) |
+| [Reseptit](reseptit/SKILL.md) | Tuo reseptin linkistä, kirjoittaa sen suomeksi ja muuntaa mitat suomalaisiksi | [Aloita tästä](docs/reseptit.md) | [Lataa ZIP](downloads/reseptit.zip) |
+
+Reseptiskillille voit antaa esimerkiksi: **“Tuo tämä resepti suomeksi ja muuta cupit desilitroiksi: [linkki]”**. Alkuperäinen linkki säilyy reseptin lopussa. Suomenkielinen resepti voidaan ottaa sellaisenaan. Tallennus omaan reseptikokoelmaan tehdään pyynnöstä.
+
 ## Mistä Arska koostuu?
 
 Arska toimii käyttämässäsi AI-assistentissa. Voit liittää siihen palveluja, joissa arjen tiedot jo ovat. Yksi esimerkkikokoonpano on **Claude + Notion + Google Kalenteri + Gmail**:
@@ -53,7 +62,7 @@ Ensimmäistä viikkoa varten riittävät AI-assistentti ja viikkosuunnittelun oh
 
 ## Käyttö
 
-**Claude:** tuo [valmis skill-ZIP](downloads/viikkosuunnittelu.zip) kohdassa Customize → Skills → + → Create skill → Upload a skill ja ota skilli käyttöön. [Clauden virallinen ohje](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
+**Claude:** lataa yllä olevasta taulukosta haluamasi skillin ZIP, tuo se kohdassa Customize → Skills → + → Create skill → Upload a skill ja ota skilli käyttöön. [Clauden virallinen ohje](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
 **ChatGPT:** luo projekti nimeltä Arska, lisää skillin kolme Markdown-tiedostoa projektin lähteisiin ja kopioi projektiohje [käyttöönotto-ohjeesta](docs/kayttoonotto.md). Tämä käyttää tiedostoja projektin ohjeina. [ChatGPT-projektien virallinen ohje](https://learn.chatgpt.com/docs/projects).
 
@@ -70,5 +79,7 @@ Kalenteriin vieminen edellyttää myös kirjoitustoimintoja ja tarvittavia käyt
 - [SKILL.md](viikkosuunnittelu/SKILL.md): työnkulku ja kuormituksen tarkistus.
 - [Asetukset](viikkosuunnittelu/references/asetukset.md): käyttäjäkohtaiset rutiinit ja kalenterikäytännöt.
 - [Ruoat](viikkosuunnittelu/references/ruoat.md): reseptien valinta, annosmäärät ja kauppalista.
+- [Reseptiskilli](reseptit/SKILL.md): yhden reseptin tuonti, käännös ja lähdelinkin säilyttäminen.
+- [Mittamuunnokset](reseptit/references/mitat.md): cupit, lusikat, painot ja lämpötilat.
 
 Pidä oikeat nimet, sähköpostiosoitteet, kalenteri- ja tietokantatunnisteet sekä henkilökohtaiset aikataulut yksityisissä asetuksissasi. Julkaistava versio ei sisällä niitä.
