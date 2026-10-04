@@ -1,21 +1,19 @@
-# Arska — tekoälyn taitokirjasto
+# Arska — tekoälyskillejä arjen avuksi
 
 ![Arska-robotti imuroimassa.](assets/arska-kodin-askareet.png)
 
 *Hasta la vista, pöly.*
 
-Arska on kokoelma valmiita ohjeita eli taitoja, joita voit antaa tekoälylle arjen avuksi.
+Arska on kokoelma tekoälyskillejä, joilla saat Clauden tai ChatGPT:n auttamaan arjen tehtävissä. Valitse alta, mitä haluat tehdä, ja seuraa käyttöönotto-ohjetta.
 
-## Taidot
+## Haluan reseptin suomeksi
 
-**Viikkosuunnittelu** auttaa sovittamaan viikon menot, ruoat ja treenit yhteen niin, että vapaatakin aikaa jää.
+Anna netistä löytämäsi reseptin linkki. Saat ohjeet suomeksi ja mitat tuttuina yksikköinä, esimerkiksi cupit desilitroina. Alkuperäinen linkki säilyy mukana.
 
-[Avaa käyttöohje](docs/kayttoonotto.md) · [Lataa Claudelle](downloads/viikkosuunnittelu.zip)
+[Ota käyttöön Claudessa](docs/reseptit-claude.md) · [Ota käyttöön ChatGPT:ssä](docs/reseptit-chatgpt.md)
 
-**Reseptit** muuttaa netistä löytämäsi reseptin suomeksi ja suomalaisiin mittoihin, esimerkiksi cupit desilitroiksi. Alkuperäinen linkki säilyy mukana.
+## Haluan suunnitella ensi viikon
 
-[Avaa käyttöohje](docs/reseptit.md) · [Lataa Claudelle](downloads/reseptit.zip)
+Sovita viikon menot, ruoat ja treenit yhteen niin, että vapaatakin aikaa jää. Tekoäly kysyy tarvittavat tiedot ja ehdottaa suunnitelmaa.
 
-## Miten aloitan?
-
-Valitse taito ja avaa sen käyttöohje. Ohjeissa kerrotaan, miten otat sen käyttöön Claudessa tai ChatGPT:ssä.
+[Ota käyttöön Claudessa](docs/viikkosuunnittelu-claude.md) · [Ota käyttöön ChatGPT:ssä](docs/viikkosuunnittelu-chatgpt.md)
