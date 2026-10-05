@@ -6,3 +6,5 @@ Valitse käyttämäsi palvelu:
 
 - [Käytän Claudea](viikkosuunnittelu-claude.md)
 - [Käytän ChatGPT:tä](viikkosuunnittelu-chatgpt.md)
+- [Käytän Copilotia](viikkosuunnittelu-copilot.md)
+- [Käytän Microsoft 365 Copilotia](viikkosuunnittelu-microsoft-365-copilot.md)
