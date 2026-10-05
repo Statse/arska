@@ -1,11 +1,11 @@
-"""Build the downloadable Claude ZIPs and single-file ChatGPT instructions."""
+"""Build the downloadable Claude ZIPs and single-file chat instructions."""
 
 from pathlib import Path
 from zipfile import ZIP_DEFLATED, ZipFile
 
 
 ROOT = Path(__file__).resolve().parent.parent
-SKILLS = ("reseptit", "viikkosuunnittelu")
+SKILLS = ("reseptit", "viikkosuunnittelu", "lomasuunnittelu")
 
 
 def main():

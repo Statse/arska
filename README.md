@@ -24,6 +24,15 @@ Sovita viikon menot, ruoat ja treenit yhteen niin, että vapaatakin aikaa jää.
 - [Ota käyttöön Copilotissa](docs/viikkosuunnittelu-copilot.md)
 - [Ota käyttöön Microsoft 365 Copilotissa](docs/viikkosuunnittelu-microsoft-365-copilot.md)
 
+## Haluan suunnitella loman
+
+Kerro matkakohde. Apuri selvittää, mitä haluat lomalta, ja sovittaa kiinnostavat kohteet, ruokailut ja levon yhteen. Saat päiväkohtaisen suunnitelman karttalinkkeineen suoraan keskusteluun. Voit halutessasi tallentaa lomatoiveesi seuraavia matkoja varten.
+
+- [Ota käyttöön Claudessa](docs/lomasuunnittelu-claude.md)
+- [Ota käyttöön ChatGPT:ssä](docs/lomasuunnittelu-chatgpt.md)
+- [Ota käyttöön Copilotissa](docs/lomasuunnittelu-copilot.md)
+- [Ota käyttöön Microsoft 365 Copilotissa](docs/lomasuunnittelu-microsoft-365-copilot.md)
+
 ## Lisenssi
 
 [MIT](LICENSE). Saat vapaasti käyttää, muokata ja jakaa näitä skillejä.
