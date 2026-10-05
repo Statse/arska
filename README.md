@@ -1,6 +1,6 @@
 # Laari — tekoälyskillejä arjen avuksi
 
-![Puinen Laari-laatikko, jossa on reseptivihko, viikkosuunnitelma ja tuoreita kasviksia. Taustalla T-800 höpöttelee kahvikuppi kädessään.](assets/laari-kodin-askareet.png)
+![Puinen Laari-laatikko, jossa on reseptivihko, viikkosuunnitelma, kasviksia sekä lomakartta, rantapostikortti ja aurinkolasit. Taustalla T-800 höpöttelee kahvikuppi kädessään.](assets/laari-kodin-askareet.png)
 
 *Kurkkaa laariin, kun arki kaipaa apua.*
 
