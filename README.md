@@ -17,3 +17,7 @@ Anna netistä löytämäsi reseptin linkki. Saat ohjeet suomeksi ja mitat tuttui
 Sovita viikon menot, ruoat ja treenit yhteen niin, että vapaatakin aikaa jää. Tekoäly kysyy tarvittavat tiedot ja ehdottaa suunnitelmaa.
 
 [Ota käyttöön Claudessa](docs/viikkosuunnittelu-claude.md) · [Ota käyttöön ChatGPT:ssä](docs/viikkosuunnittelu-chatgpt.md)
+
+## Lisenssi
+
+[MIT](LICENSE). Saat vapaasti käyttää, muokata ja jakaa näitä skillejä.
