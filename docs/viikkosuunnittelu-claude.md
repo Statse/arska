@@ -2,7 +2,7 @@
 
 Tarvitset Claude-tilin. Tee käyttöönotto tietokoneen selaimessa.
 
-1. [Lataa viikkosuunnitteluskilli](https://github.com/Statse/arska/raw/refs/heads/master/downloads/viikkosuunnittelu.zip). Säilytä ZIP-tiedosto sellaisenaan, älä pura sitä.
+1. [Lataa viikkosuunnitteluskilli](https://github.com/Statse/laari/raw/refs/heads/master/downloads/viikkosuunnittelu.zip). Säilytä ZIP-tiedosto sellaisenaan, älä pura sitä.
 2. Avaa [Claude](https://claude.ai) ja kirjaudu sisään.
 3. Valitse **Customize → Skills → + → Create skill → Upload a skill**.
 4. Valitse lataamasi **viikkosuunnittelu.zip** ja kytke lisätty skilli päälle.

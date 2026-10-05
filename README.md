@@ -1,10 +1,10 @@
-# Arska — tekoälyskillejä arjen avuksi
+# Laari — tekoälyskillejä arjen avuksi
 
-![Arska-robotti imuroimassa.](assets/arska-kodin-askareet.png)
+![Robotti imuroimassa kotia.](assets/laari-kodin-askareet.png)
 
-*Hasta la vista, pöly.*
+*Kurkkaa laariin, kun arki kaipaa apua.*
 
-Arska on kokoelma tekoälyskillejä, joilla saat Clauden tai ChatGPT:n auttamaan arjen tehtävissä. Valitse alta, mitä haluat tehdä, ja seuraa käyttöönotto-ohjetta.
+Laari on kokoelma tekoälyskillejä, joilla saat Clauden tai ChatGPT:n auttamaan arjen tehtävissä. Valitse alta, mitä haluat tehdä, ja seuraa käyttöönotto-ohjetta.
 
 ## Haluan reseptin suomeksi
 

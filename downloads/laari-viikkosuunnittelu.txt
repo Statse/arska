@@ -1,4 +1,4 @@
-Arska / viikkosuunnittelu
+Laari / viikkosuunnittelu
 
 This file contains the skill and all its reference files. References to file paths below refer to sections in this same file. Read those sections when the skill requests them.
 

@@ -2,14 +2,14 @@
 
 Tarvitset ChatGPT-tilin. Tee käyttöönotto tietokoneen selaimessa.
 
-1. Avaa [reseptitiedosto](../downloads/arska-reseptit.txt) ja paina oikean yläkulman latausnuolta (**Download raw file**). Tiedoston nimi on **arska-reseptit.txt**.
-2. Avaa [ChatGPT](https://chatgpt.com), kirjaudu sisään ja luo **uusi projekti** nimeltä **Arska – reseptit**.
-3. Lisää lataamasi **arska-reseptit.txt** projektin tiedostoihin kohdasta **Lisää tiedostoja / Add files**.
+1. Avaa [reseptitiedosto](../downloads/laari-reseptit.txt) ja paina oikean yläkulman latausnuolta (**Download raw file**). Tiedoston nimi on **laari-reseptit.txt**.
+2. Avaa [ChatGPT](https://chatgpt.com), kirjaudu sisään ja luo **uusi projekti** nimeltä **Laari – reseptit**.
+3. Lisää lataamasi **laari-reseptit.txt** projektin tiedostoihin kohdasta **Lisää tiedostoja / Add files**.
 4. Avaa projektin valikko (**…**) ja sen ohjeet (**Project instructions**). Lisää ja tallenna tämä teksti:
 
 ```text
 Kun annan reseptin tai reseptilinkin, noudata projektin
-arska-reseptit.txt-tiedoston ohjeita.
+laari-reseptit.txt-tiedoston ohjeita.
 ```
 
 5. Aloita keskustelu tämän projektin sisällä. Kopioi alla oleva viesti, vaihda hakasulkeiden tilalle reseptin linkki ja lähetä:

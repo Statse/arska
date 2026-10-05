@@ -19,7 +19,7 @@ def main():
                 archive.write(file, file.relative_to(ROOT).as_posix())
 
         sections = [
-            f"Arska / {name}\n\n"
+            f"Laari / {name}\n\n"
             "This file contains the skill and all its reference files. "
             "References to file paths below refer to sections in this same file. "
             "Read those sections when the skill requests them.\n"
@@ -27,7 +27,7 @@ def main():
         for file in files:
             relative = file.relative_to(source).as_posix()
             sections.append(f"\n--- FILE: {relative} ---\n\n{file.read_text(encoding='utf-8')}")
-        (output / f"arska-{name}.txt").write_text("\n".join(sections), encoding="utf-8")
+        (output / f"laari-{name}.txt").write_text("\n".join(sections), encoding="utf-8")
         print(f"Built {name}: ZIP and TXT")
 
 

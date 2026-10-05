@@ -2,14 +2,14 @@
 
 Tarvitset ChatGPT-tilin. Tee käyttöönotto tietokoneen selaimessa.
 
-1. Avaa [viikkosuunnittelutiedosto](../downloads/arska-viikkosuunnittelu.txt) ja paina oikean yläkulman latausnuolta (**Download raw file**). Tiedoston nimi on **arska-viikkosuunnittelu.txt**.
-2. Avaa [ChatGPT](https://chatgpt.com), kirjaudu sisään ja luo **uusi projekti** nimeltä **Arska – viikkosuunnittelu**.
-3. Lisää lataamasi **arska-viikkosuunnittelu.txt** projektin tiedostoihin kohdasta **Lisää tiedostoja / Add files**.
+1. Avaa [viikkosuunnittelutiedosto](../downloads/laari-viikkosuunnittelu.txt) ja paina oikean yläkulman latausnuolta (**Download raw file**). Tiedoston nimi on **laari-viikkosuunnittelu.txt**.
+2. Avaa [ChatGPT](https://chatgpt.com), kirjaudu sisään ja luo **uusi projekti** nimeltä **Laari – viikkosuunnittelu**.
+3. Lisää lataamasi **laari-viikkosuunnittelu.txt** projektin tiedostoihin kohdasta **Lisää tiedostoja / Add files**.
 4. Avaa projektin valikko (**…**) ja sen ohjeet (**Project instructions**). Lisää ja tallenna tämä teksti:
 
 ```text
 Kun pyydän viikkosuunnittelua, noudata projektin
-arska-viikkosuunnittelu.txt-tiedoston ohjeita.
+laari-viikkosuunnittelu.txt-tiedoston ohjeita.
 ```
 
 5. Aloita keskustelu tämän projektin sisällä ja lähetä:
